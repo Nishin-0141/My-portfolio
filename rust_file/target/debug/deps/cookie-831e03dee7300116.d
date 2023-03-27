@@ -1,0 +1,15 @@
+/home/shin/My-portfolio/rust_file/target/debug/deps/cookie-831e03dee7300116.rmeta: /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/lib.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/builder.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/parse.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/jar.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/delta.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/draft.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/expiration.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/mod.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/macros.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/key.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/private.rs
+
+/home/shin/My-portfolio/rust_file/target/debug/deps/cookie-831e03dee7300116.d: /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/lib.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/builder.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/parse.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/jar.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/delta.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/draft.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/expiration.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/mod.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/macros.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/key.rs /home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/private.rs
+
+/home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/lib.rs:
+/home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/builder.rs:
+/home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/parse.rs:
+/home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/jar.rs:
+/home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/delta.rs:
+/home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/draft.rs:
+/home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/expiration.rs:
+/home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/mod.rs:
+/home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/macros.rs:
+/home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/key.rs:
+/home/shin/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/secure/private.rs:
